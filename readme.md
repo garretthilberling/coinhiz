@@ -1,5 +1,4 @@
 # Coinhiz
-# React Portfolio
 
 ## Table of Contents
 * [Description](#Description)
