@@ -19,29 +19,22 @@ See the top gainers at the top of section of the page. See what coins people are
 </p>
     
 ## Installation
-No installation required! View the application in full via the [deployed URL](https://garretthilberling.github.io/hilberling-react-portfolio/).
+No installation required! View the application in full via the [deployed URL](https://garretthilberling.github.io/coinhiz/).
 
 ## Questions
-If you have any questions about this project, please contact me via GitHub [here](https://github.com/garretthilberling)!
+If you have any questions about this project, please contact us via GitHub: 
+* [Garrett Hilberling](https://github.com/garretthilberling)
+* [Raul Jimenez](https://github.com/jimenezraul)
+* [Jonathan McDonnell](https://github.com/Johnnyboy7781)
+* [Chris Waters](https://github.com/Waters000)
+* [Douglas Knowles](https://github.com/Dknowles44)
+* [Brady Stafford](https://github.com/BradyStafford)
 
 ## Credits
 This project was created by:
 * Garrett Hilberling: [LinkedIn](https://www.linkedin.com/in/garretthilberling/)
-
-    
-
-House for Crypto Coins showing a coin's market supply vs how many coins have been mined.  How fast coins are being mined and the price index for each coin.
-
-## Built off of HTML, CSS, Javascript, JQuery
-Built off HTML, CSS, Javascript, Jquery and Tailwind for CSS.
-
-### Live Link
-https://garretthilberling.github.io/coinhiz/
-
-#### Who is this for?
-Anyone interested in the fascinating world of Crypto can use this as a guide to find the top coins, how many are in production, and how many are still left to be mined.
-
-##### How to use?
-Find the top coin gainer for the past 24 hours, latest twitter feed postings, and info with charts on top the 100 coins.  
-
-![App screenshot](./assets/img/app-screenshot.png)
+* Raul Jimenez: [LinkedIn](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
+* Jonathan McDonnell: [LinkedIn](https://www.linkedin.com/in/jonathan-mcdonnell-6a6a35156/)
+* Chris Waters
+* Douglas Knowles: [LinkedIn](https://www.linkedin.com/in/douglas-knowles-a621b6227/)
+* Brady Stafford
